@@ -1,2 +1,2 @@
 # INDIGO-Sky
-INDIGO Sky for ASIAIR Pro
+INDIGOSky for ASIAIR Pro
